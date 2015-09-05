@@ -1,0 +1,14 @@
+/*
+#overview
+大人の階段作品紹介サイト
+
+草原ゼミ前期制作発表会制作作品、大人の階段の作品紹介サイトです。
+*/
+
+h1{
+	transition:200ms ease-out transform;
+	&:hover{
+		color:blue;
+		transform:translate(10px, 0);
+	}
+}

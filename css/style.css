@@ -1,0 +1,15 @@
+@charset "UTF-8";
+/*
+#overview
+大人の階段作品紹介サイト
+
+草原ゼミ前期制作発表会制作作品、大人の階段の作品紹介サイトです。
+*/
+h1 {
+  -webkit-transition: 200ms ease-out -webkit-transform;
+          transition: 200ms ease-out transform; }
+  h1:hover {
+    color: blue;
+    -webkit-transform: translate(10px, 0);
+        -ms-transform: translate(10px, 0);
+            transform: translate(10px, 0); }
